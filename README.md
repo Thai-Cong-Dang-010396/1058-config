@@ -1,1 +1,1 @@
-# tdc-demo
+# Config Server demo
